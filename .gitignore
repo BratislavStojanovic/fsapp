@@ -1,0 +1,14 @@
+node_modules/
+
+/login_register/build
+
+
+.DS_Store
+/login_register/.env.local
+/login_register/.env.development.local
+/login_register/.env.test.local
+/login_register/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
